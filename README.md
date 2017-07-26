@@ -1,6 +1,6 @@
 # Machine Learning Nanodegree
 # Capstone Project
-## Project: Vidyabagish 2.0
+## Project: Vidyabagish
 
 In this project we will focus on Text Generation. Text Generation is part of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) and can be used to [transcribe speech to text](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf), perform [machine translation](http://arxiv.org/abs/1409.3215), generate handwritten text, image captioning, generate new blog posts or news headlines. 
 
